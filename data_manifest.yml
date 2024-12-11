@@ -1,0 +1,15 @@
+files:
+- path: analysis/smc++/results/Telmatherina_opudi.final.json
+  tracked: false
+  md5: ff7f32e704c94be0ecf70768ac92c507
+  size: 1407
+  url: null
+- path: analysis/smc++/results/Telmatherina_sarasinorum.final.json
+  tracked: false
+  md5: a8c6f598cfbb7e644256a0d496b38e5b
+  size: 1423
+  url: null
+remotes: {}
+metadata:
+  title: null
+  description: null
