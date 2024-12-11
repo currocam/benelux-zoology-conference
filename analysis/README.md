@@ -1,0 +1,1 @@
+Build and compile dependencies executing `make build` and run the analysis doing `make run`. 
