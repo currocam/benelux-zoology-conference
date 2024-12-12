@@ -1,0 +1,10 @@
+[deps]
+BesselK = "432ab697-7a72-484f-bc4a-bc531f5c819b"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+MCMCChains = "c7f686f2-ff18-58e9-bc7b-31028e88f75d"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
